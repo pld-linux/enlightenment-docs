@@ -9,7 +9,7 @@ Source0:	http://dl.sourceforge.net/enlightenment/%{name}-%{version}.tar.gz
 # Source0-md5:	2f5ca4bad4e995fd9594c23c95837fcc
 # Source0-size:	1791137
 URL:		http://enlightenment.org/
-Requires:	enlightenment
+Requires:	enlightenment >= 0.16.7.1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
