@@ -1,5 +1,5 @@
 Summary:	Enlightenment documentation
-Summary(pl.UTF-8):   Dokumentacja dla Enlightenmenta
+Summary(pl.UTF-8):	Dokumentacja dla Enlightenmenta
 Name:		enlightenment-docs
 Version:	0.16.7
 Release:	1
