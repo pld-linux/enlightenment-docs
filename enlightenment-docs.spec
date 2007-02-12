@@ -1,5 +1,5 @@
 Summary:	Enlightenment documentation
-Summary(pl):	Dokumentacja dla Enlightenmenta
+Summary(pl.UTF-8):   Dokumentacja dla Enlightenmenta
 Name:		enlightenment-docs
 Version:	0.16.7
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Documentation for Enlightenment in edox form.
 
-%description -l pl
+%description -l pl.UTF-8
 Dokumentacja dla Enlightenmenta w formie edox.
 
 %prep
